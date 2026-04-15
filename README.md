@@ -8,7 +8,7 @@ Estudante de Engenharia de Software buscando oportunidade de estágio em desenvo
 Tenho experiência com Python, Java e SQL, além de conhecimentos em lógica de programação, 
 estruturas de dados e desenvolvimento de sistemas.
 
-## 🛠️ Tecnologias
+##  Tecnologias
 - Python (intermediário)
 - Java (intermediário)
 - SQL (intermediário)
